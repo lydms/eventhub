@@ -1,4 +1,4 @@
-# EventHub
+# Projet fil rouge: EventHub
 
 ## Description
 
